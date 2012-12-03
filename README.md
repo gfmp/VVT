@@ -8,7 +8,7 @@ Repozitar pro vsechny student a ucitele na GFMP.
 * [Materialy](https://github.com/gfmp/VVT/wiki/Materials/)
 * [Domaci ukoly](https://github.com/gfmp/VVT/wiki/Homeworks/)
 
-Pro jakekoli info piste na emaily: 
+## Kontakty
 
 ### Michal Cihak (mcihak@post.cz) 
 * Skola, ukoly, organizace, (cokoli)
