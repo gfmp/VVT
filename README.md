@@ -13,5 +13,5 @@ Repozitar pro vsechny student a ucitele na GFMP.
 ### Michal Cihak (mcihak@post.cz) 
 * Skola, ukoly, organizace, (cokoli)
 
-### Milan Sulc (felix@noblexity.com)
+### Milan Sulc (sulcmil@gmail.com)
 * Git, programovani, weby
